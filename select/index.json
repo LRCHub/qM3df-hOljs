@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "道標",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2026-02-20T22:36:01.237800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "阿蘭",
+      "has_synced": false,
+      "path": "select/01_道標_阿蘭.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "道標~シンフォニエッタ",
+      "artist": "宮本笑里",
+      "has_synced": false,
+      "path": "select/02_道標~シンフォニエッタ_宮本笑里.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "福山雅治",
+      "has_synced": false,
+      "path": "select/03_道標_福山雅治.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/04_道標_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": false,
+      "path": "select/05_道標_Masaharu_Fukuyama.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "橘慶太",
+      "has_synced": true,
+      "path": "select/06_道標_橘慶太.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "alan",
+      "has_synced": true,
+      "path": "select/07_道標_alan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "道標",
+      "artist": "宮本駿一",
+      "has_synced": true,
+      "path": "select/08_道標_宮本駿一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_02_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_03_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_04_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_05_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_06_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_07_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "道標",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_08_道標_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "道標 2010",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_09_道標_2010_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "道標 2010",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_10_道標_2010_福山_雅治.txt"
+    }
+  ]
+}
